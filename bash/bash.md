@@ -7,3 +7,4 @@
 - each client IP and the requests from it;
 - pages returning 404 status;
 - requests of the users marked as bots.
+#### Usage: /bin/bash ./http_error_parser.sh log_file.log
